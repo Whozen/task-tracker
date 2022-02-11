@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Wake up",
       "day": "May 12 at 6:00 am",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
