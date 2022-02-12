@@ -1,0 +1,37 @@
+.add-form {
+    margin: 20px 0;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid black;
+}
+
+.add-form .form-control {
+    margin: 10px 0;
+}
+
+.form-control label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-control input {
+    display: block;
+    padding: 2px;
+}
+
+.add-form  .form-control-check {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.form-control-check label {
+    margin-right: 10px;
+}
+
+.btn {
+    padding: 10px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5%;
+}
